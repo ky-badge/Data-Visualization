@@ -4,4 +4,4 @@ title: "Modified"
 
 The modified graphic.
 
-![](Picture2.png){width=75%}
+![](Picture3.png){width=75%}
