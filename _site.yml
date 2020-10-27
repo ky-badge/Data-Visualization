@@ -1,0 +1,10 @@
+name: "hw8-website"
+navbar:
+  left:
+    - text: "Original"
+      href: index.html
+    - text: "Modified"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo

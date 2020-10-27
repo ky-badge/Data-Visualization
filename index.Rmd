@@ -1,0 +1,8 @@
+---
+title: "Original"
+---
+
+This is the original graphic.
+
+![](original.jpg)
+

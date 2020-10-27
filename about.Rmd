@@ -1,0 +1,7 @@
+---
+title: "Modified"
+---
+
+The modified graphic.
+
+![](Picture2.png){width=75%}
